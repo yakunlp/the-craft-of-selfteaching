@@ -92,4 +92,4 @@ teach_yourself(coding)
 <a href='#fn1b'><small>↑Back to Content↑</small></a>
 
 just try the git add and commit command
-git
+another try
