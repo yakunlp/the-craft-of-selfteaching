@@ -93,3 +93,10 @@ teach_yourself(coding)
 
 just try the git add and commit command
 another try
+
+20211112
+
+20211113 another
+
+how to verify
+
